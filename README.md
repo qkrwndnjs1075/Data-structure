@@ -1,2 +1,2 @@
 # Data-structure
-study structure ( c )
+study structure learn code ( c )
